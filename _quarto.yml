@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - cloud-security.qmd
+      - web-security.qmd
+      - on-premise-systems-and-networks-security.qmd
 
 format:
   html:
