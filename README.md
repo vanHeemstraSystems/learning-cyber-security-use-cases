@@ -1,4 +1,4 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-cyber-security-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-cyber-security-initiative/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-cyber-security-use-cases/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-cyber-security-use-cases/actions/workflows/publish.yml)
 
 learning-cyber-security-use-cases
 # Learning Cyber Security - Use Cases

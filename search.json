@@ -7,25 +7,18 @@
     "text": "About this site"
   },
   {
-    "objectID": "on-premise-systems-and-networks-security.html",
-    "href": "on-premise-systems-and-networks-security.html",
-    "title": "On-Premise Systems and Networks Security",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nLearning Cyber Security - Use Cases"
+  },
+  {
+    "objectID": "on-premise-systems-and-networks-security.html",
+    "href": "on-premise-systems-and-networks-security.html",
+    "title": "On-Premise Systems and Networks Security",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
@@ -38,6 +31,13 @@
     "objectID": "cloud-security.html",
     "href": "cloud-security.html",
     "title": "Cloud Security",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
     "text": "About this site"
   }
